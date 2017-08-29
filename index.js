@@ -1,7 +1,7 @@
 'use strict';
 
 var R = require('ramda');
-var OSRM = require('osrm');
+var OSRM = require('osrm-backend');
 var async = require('async');
 
 /**
